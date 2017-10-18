@@ -2,7 +2,7 @@
 
 require "vendor/autoload.php";
 
-echo "ahoj"
+echo "ahoj";
 exit(0);
 
 
